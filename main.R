@@ -1,10 +1,9 @@
 # Script information ------------------------------------------------------
-
-#' Project title: 
+#' Project title: Pretvaranje eksel tabele u niz; citanje podataka u dva smera.
 #' Script name: main.R
 #' Date created: 2023-3-21
 #' Author: Milica
-#' Script purpose: obrada eksela
+#' Script purpose: Obrada eksel podataka
 
 # Ucitaj potrebne biblioteke ----------------------------------------------
 library(readxl)
