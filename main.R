@@ -1,5 +1,5 @@
 # Script information ------------------------------------------------------
-#' Project title: Pretvaranje eksel tabele u niz; citanje podataka u dva smera.
+#' Project title: Pretvaranje eksel tabele u niz (citanje u dva smera).
 #' Script name: main.R
 #' Date created: 2023-3-21
 #' Author: Milica
